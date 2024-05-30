@@ -1,0 +1,6 @@
+@API_for_WTI_HostAddress = http://localhost:5183
+
+GET {{API_for_WTI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
